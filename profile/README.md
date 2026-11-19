@@ -10,7 +10,7 @@
 
 | Plugin | Qué hace / What it does | Estado / Status |
 | --- | --- | --- |
-| **[Bar Spectrum Analyzer](https://github.com/blacklight-spectrum-tools/BarSpectrumAnalyzer)** | Espectro en barras con "+dB" sobre tu referencia, vista Mid/Side, fase, graves en mono y LUFS. / Spectrum in bars with "+dB" over your reference, Mid/Side view, phase, low-end mono check and LUFS. | Disponible / Available |
+| **[Lyman Bar Analyzer](https://github.com/blacklight-spectrum-tools/BarSpectrumAnalyzer)** | Espectro en barras con "+dB" sobre tu referencia, vista Mid/Side, fase, graves en mono y LUFS. / Spectrum in bars with "+dB" over your reference, Mid/Side view, phase, low-end mono check and LUFS. | Disponible / Available |
 | Reverb | Paralelo bien resuelto y el "fantasma" del reverb en pantalla. / Proper parallel routing and an on-screen "ghost" of the reverb. | Planeado / Planned |
 | Compresor guiado / Guided compressor | Zonas objetivo para threshold y make-up gain. / Target zones for threshold and make-up gain. | Planeado / Planned |
 | EQ pasivo de válvulas / Passive tube EQ | | Planeado / Planned |
